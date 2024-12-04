@@ -1,0 +1,5 @@
+biodata
+
+nama: Aulia Pradina
+kelas: 4IA20
+NPM: 50421237
